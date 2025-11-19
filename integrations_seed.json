@@ -1,0 +1,1794 @@
+[
+  {
+    "id": "salesforce",
+    "name": "Salesforce",
+    "version": "1.0.0",
+    "category": "CRM",
+    "description": "Customer relationship management platform for sales and marketing",
+    "icon": "\u2601\ufe0f",
+    "base_url": "https://api.salesforce.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 23100,
+    "rating": 4.7,
+    "rating_count": 1155,
+    "tags": [
+      "crm"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594185",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "hubspot",
+    "name": "HubSpot",
+    "version": "1.0.0",
+    "category": "CRM",
+    "description": "Inbound marketing, sales, and service software",
+    "icon": "\ud83c\udfaf",
+    "base_url": "https://api.hubapi.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 18900,
+    "rating": 4.8,
+    "rating_count": 945,
+    "tags": [
+      "crm"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594206",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "zoho-crm",
+    "name": "Zoho CRM",
+    "version": "1.0.0",
+    "category": "CRM",
+    "description": "Cloud-based customer relationship management software",
+    "icon": "\ud83d\udcca",
+    "base_url": "https://www.zohoapis.com/crm",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 12400,
+    "rating": 4.5,
+    "rating_count": 620,
+    "tags": [
+      "crm"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594209",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "pipedrive",
+    "name": "Pipedrive",
+    "version": "1.0.0",
+    "category": "CRM",
+    "description": "Sales CRM and pipeline management tool",
+    "icon": "\ud83d\udd04",
+    "base_url": "https://api.pipedrive.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 9800,
+    "rating": 4.6,
+    "rating_count": 490,
+    "tags": [
+      "crm"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594212",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "freshsales",
+    "name": "Freshsales",
+    "version": "1.0.0",
+    "category": "CRM",
+    "description": "AI-powered CRM for high-velocity sales teams",
+    "icon": "\ud83c\udf31",
+    "base_url": "https://api.freshsales.io",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 7600,
+    "rating": 4.5,
+    "rating_count": 380,
+    "tags": [
+      "crm"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594224",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "microsoft-dynamics",
+    "name": "Microsoft Dynamics 365",
+    "version": "1.0.0",
+    "category": "CRM",
+    "description": "Enterprise CRM and ERP applications",
+    "icon": "\ud83c\udfe2",
+    "base_url": "https://api.crm.dynamics.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 15300,
+    "rating": 4.4,
+    "rating_count": 765,
+    "tags": [
+      "crm"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594229",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "sugarcrm",
+    "name": "SugarCRM",
+    "version": "1.0.0",
+    "category": "CRM",
+    "description": "Customer experience management platform",
+    "icon": "\ud83c\udf6c",
+    "base_url": "https://api.sugarcrm.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 5400,
+    "rating": 4.3,
+    "rating_count": 270,
+    "tags": [
+      "crm"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594232",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "insightly",
+    "name": "Insightly",
+    "version": "1.0.0",
+    "category": "CRM",
+    "description": "CRM with project management capabilities",
+    "icon": "\ud83d\udc41\ufe0f",
+    "base_url": "https://api.insightly.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 4200,
+    "rating": 4.4,
+    "rating_count": 210,
+    "tags": [
+      "crm"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594236",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "copper",
+    "name": "Copper",
+    "version": "1.0.0",
+    "category": "CRM",
+    "description": "CRM built for Google Workspace",
+    "icon": "\ud83d\udd36",
+    "base_url": "https://api.copper.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 6100,
+    "rating": 4.5,
+    "rating_count": 305,
+    "tags": [
+      "crm"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594241",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "close",
+    "name": "Close",
+    "version": "1.0.0",
+    "category": "CRM",
+    "description": "Sales engagement CRM for startups and SMBs",
+    "icon": "\ud83d\udcde",
+    "base_url": "https://api.close.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 5900,
+    "rating": 4.7,
+    "rating_count": 295,
+    "tags": [
+      "crm"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594244",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "shopify",
+    "name": "Shopify",
+    "version": "1.0.0",
+    "category": "E-commerce",
+    "description": "E-commerce platform for online stores and retail POS",
+    "icon": "\ud83d\uded2",
+    "base_url": "https://api.shopify.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 15400,
+    "rating": 4.8,
+    "rating_count": 770,
+    "tags": [
+      "e-commerce"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594247",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "woocommerce",
+    "name": "WooCommerce",
+    "version": "1.0.0",
+    "category": "E-commerce",
+    "description": "Open-source e-commerce plugin for WordPress",
+    "icon": "\ud83d\udecd\ufe0f",
+    "base_url": "https://woocommerce.com/wp-json",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 21300,
+    "rating": 4.6,
+    "rating_count": 1065,
+    "tags": [
+      "e-commerce"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594249",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "bigcommerce",
+    "name": "BigCommerce",
+    "version": "1.0.0",
+    "category": "E-commerce",
+    "description": "Enterprise e-commerce platform",
+    "icon": "\ud83c\udfea",
+    "base_url": "https://api.bigcommerce.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 8700,
+    "rating": 4.5,
+    "rating_count": 435,
+    "tags": [
+      "e-commerce"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594254",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "magento",
+    "name": "Magento",
+    "version": "1.0.0",
+    "category": "E-commerce",
+    "description": "Open-source e-commerce platform",
+    "icon": "\ud83c\udfa8",
+    "base_url": "https://magento.com/rest",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 11200,
+    "rating": 4.4,
+    "rating_count": 560,
+    "tags": [
+      "e-commerce"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594256",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "square",
+    "name": "Square",
+    "version": "1.0.0",
+    "category": "E-commerce",
+    "description": "Payment processing and point-of-sale solutions",
+    "icon": "\u2b1c",
+    "base_url": "https://connect.squareup.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 19800,
+    "rating": 4.7,
+    "rating_count": 990,
+    "tags": [
+      "e-commerce"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594259",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "amazon-selling-partner",
+    "name": "Amazon SP-API",
+    "version": "1.0.0",
+    "category": "E-commerce",
+    "description": "Amazon Selling Partner API for marketplace sellers",
+    "icon": "\ud83d\udce6",
+    "base_url": "https://sellingpartnerapi-na.amazon.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 14600,
+    "rating": 4.3,
+    "rating_count": 730,
+    "tags": [
+      "e-commerce"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594263",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "ebay",
+    "name": "eBay",
+    "version": "1.0.0",
+    "category": "E-commerce",
+    "description": "Online marketplace and auction platform",
+    "icon": "\ud83c\udff7\ufe0f",
+    "base_url": "https://api.ebay.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 9400,
+    "rating": 4.2,
+    "rating_count": 470,
+    "tags": [
+      "e-commerce"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594265",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "etsy",
+    "name": "Etsy",
+    "version": "1.0.0",
+    "category": "E-commerce",
+    "description": "Marketplace for handmade and vintage goods",
+    "icon": "\ud83c\udf81",
+    "base_url": "https://openapi.etsy.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 7800,
+    "rating": 4.5,
+    "rating_count": 390,
+    "tags": [
+      "e-commerce"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594268",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "walmart-marketplace",
+    "name": "Walmart Marketplace",
+    "version": "1.0.0",
+    "category": "E-commerce",
+    "description": "Walmart's third-party seller platform",
+    "icon": "\ud83c\udfec",
+    "base_url": "https://marketplace.walmartapis.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 6300,
+    "rating": 4.1,
+    "rating_count": 315,
+    "tags": [
+      "e-commerce"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594272",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "prestashop",
+    "name": "PrestaShop",
+    "version": "1.0.0",
+    "category": "E-commerce",
+    "description": "Open-source e-commerce solution",
+    "icon": "\ud83d\uded2",
+    "base_url": "https://api.prestashop.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 5100,
+    "rating": 4.3,
+    "rating_count": 255,
+    "tags": [
+      "e-commerce"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594274",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "stripe",
+    "name": "Stripe",
+    "version": "1.0.0",
+    "category": "Finance",
+    "description": "Payment processing platform",
+    "icon": "\ud83d\udcb3",
+    "base_url": "https://api.stripe.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 31300,
+    "rating": 4.9,
+    "rating_count": 1565,
+    "tags": [
+      "finance"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594276",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "quickbooks",
+    "name": "QuickBooks",
+    "version": "1.0.0",
+    "category": "Finance",
+    "description": "Accounting software for small businesses",
+    "icon": "\ud83d\udcd2",
+    "base_url": "https://quickbooks.api.intuit.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 17600,
+    "rating": 4.6,
+    "rating_count": 880,
+    "tags": [
+      "finance"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594280",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "xero",
+    "name": "Xero",
+    "version": "1.0.0",
+    "category": "Finance",
+    "description": "Cloud-based accounting software",
+    "icon": "\ud83d\udcbc",
+    "base_url": "https://api.xero.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 13400,
+    "rating": 4.7,
+    "rating_count": 670,
+    "tags": [
+      "finance"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594283",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "paypal",
+    "name": "PayPal",
+    "version": "1.0.0",
+    "category": "Finance",
+    "description": "Online payment system",
+    "icon": "\ud83d\udcb0",
+    "base_url": "https://api.paypal.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 28900,
+    "rating": 4.5,
+    "rating_count": 1445,
+    "tags": [
+      "finance"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594285",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "plaid",
+    "name": "Plaid",
+    "version": "1.0.0",
+    "category": "Finance",
+    "description": "Financial services API platform",
+    "icon": "\ud83c\udfe6",
+    "base_url": "https://production.plaid.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 12800,
+    "rating": 4.8,
+    "rating_count": 640,
+    "tags": [
+      "finance"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594287",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "braintree",
+    "name": "Braintree",
+    "version": "1.0.0",
+    "category": "Finance",
+    "description": "Payment gateway owned by PayPal",
+    "icon": "\ud83c\udf33",
+    "base_url": "https://api.braintreegateway.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 9700,
+    "rating": 4.6,
+    "rating_count": 485,
+    "tags": [
+      "finance"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594292",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "adyen",
+    "name": "Adyen",
+    "version": "1.0.0",
+    "category": "Finance",
+    "description": "Global payment platform",
+    "icon": "\ud83d\udc8e",
+    "base_url": "https://checkout-test.adyen.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 8300,
+    "rating": 4.7,
+    "rating_count": 415,
+    "tags": [
+      "finance"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594294",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "wave",
+    "name": "Wave",
+    "version": "1.0.0",
+    "category": "Finance",
+    "description": "Free accounting software for small businesses",
+    "icon": "\ud83c\udf0a",
+    "base_url": "https://api.waveapps.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 6900,
+    "rating": 4.4,
+    "rating_count": 345,
+    "tags": [
+      "finance"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594296",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "freshbooks",
+    "name": "FreshBooks",
+    "version": "1.0.0",
+    "category": "Finance",
+    "description": "Cloud-based accounting software",
+    "icon": "\ud83d\udcda",
+    "base_url": "https://api.freshbooks.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 8100,
+    "rating": 4.5,
+    "rating_count": 405,
+    "tags": [
+      "finance"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594298",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "sage",
+    "name": "Sage",
+    "version": "1.0.0",
+    "category": "Finance",
+    "description": "Business management software",
+    "icon": "\ud83c\udf3f",
+    "base_url": "https://api.sage.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 7400,
+    "rating": 4.3,
+    "rating_count": 370,
+    "tags": [
+      "finance"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594301",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "gmail",
+    "name": "Gmail",
+    "version": "1.0.0",
+    "category": "Communication",
+    "description": "Email service by Google",
+    "icon": "\ud83d\udce7",
+    "base_url": "https://gmail.googleapis.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 45600,
+    "rating": 4.8,
+    "rating_count": 2280,
+    "tags": [
+      "communication"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594305",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "slack",
+    "name": "Slack",
+    "version": "1.0.0",
+    "category": "Communication",
+    "description": "Team collaboration and messaging platform",
+    "icon": "\ud83d\udcac",
+    "base_url": "https://slack.com/api",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 34200,
+    "rating": 4.9,
+    "rating_count": 1710,
+    "tags": [
+      "communication"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594307",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "microsoft-teams",
+    "name": "Microsoft Teams",
+    "version": "1.0.0",
+    "category": "Communication",
+    "description": "Collaboration platform integrated with Office 365",
+    "icon": "\ud83d\udc65",
+    "base_url": "https://graph.microsoft.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 29800,
+    "rating": 4.6,
+    "rating_count": 1490,
+    "tags": [
+      "communication"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594309",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "zoom",
+    "name": "Zoom",
+    "version": "1.0.0",
+    "category": "Communication",
+    "description": "Video conferencing and webinar platform",
+    "icon": "\ud83c\udfa5",
+    "base_url": "https://api.zoom.us",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 26400,
+    "rating": 4.7,
+    "rating_count": 1320,
+    "tags": [
+      "communication"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594312",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "twilio",
+    "name": "Twilio",
+    "version": "1.0.0",
+    "category": "Communication",
+    "description": "Cloud communications platform",
+    "icon": "\ud83d\udcf1",
+    "base_url": "https://api.twilio.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 18700,
+    "rating": 4.8,
+    "rating_count": 935,
+    "tags": [
+      "communication"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594316",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "sendgrid",
+    "name": "SendGrid",
+    "version": "1.0.0",
+    "category": "Communication",
+    "description": "Email delivery service",
+    "icon": "\u2709\ufe0f",
+    "base_url": "https://api.sendgrid.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 22100,
+    "rating": 4.7,
+    "rating_count": 1105,
+    "tags": [
+      "communication"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594320",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "mailchimp",
+    "name": "Mailchimp",
+    "version": "1.0.0",
+    "category": "Communication",
+    "description": "Email marketing platform",
+    "icon": "\ud83d\udc35",
+    "base_url": "https://api.mailchimp.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 19300,
+    "rating": 4.6,
+    "rating_count": 965,
+    "tags": [
+      "communication"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594323",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "discord",
+    "name": "Discord",
+    "version": "1.0.0",
+    "category": "Communication",
+    "description": "Voice, video, and text communication platform",
+    "icon": "\ud83c\udfae",
+    "base_url": "https://discord.com/api",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 15800,
+    "rating": 4.8,
+    "rating_count": 790,
+    "tags": [
+      "communication"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594325",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "telegram",
+    "name": "Telegram",
+    "version": "1.0.0",
+    "category": "Communication",
+    "description": "Cloud-based instant messaging service",
+    "icon": "\u2708\ufe0f",
+    "base_url": "https://api.telegram.org",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 14200,
+    "rating": 4.7,
+    "rating_count": 710,
+    "tags": [
+      "communication"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594327",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "whatsapp-business",
+    "name": "WhatsApp Business",
+    "version": "1.0.0",
+    "category": "Communication",
+    "description": "Business messaging API",
+    "icon": "\ud83d\udcde",
+    "base_url": "https://graph.facebook.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 21900,
+    "rating": 4.5,
+    "rating_count": 1095,
+    "tags": [
+      "communication"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594333",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "google-ads",
+    "name": "Google Ads",
+    "version": "1.0.0",
+    "category": "Marketing",
+    "description": "Online advertising platform",
+    "icon": "\ud83c\udfaf",
+    "base_url": "https://googleads.googleapis.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 16700,
+    "rating": 4.5,
+    "rating_count": 835,
+    "tags": [
+      "marketing"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594335",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "facebook-ads",
+    "name": "Facebook Ads",
+    "version": "1.0.0",
+    "category": "Marketing",
+    "description": "Social media advertising platform",
+    "icon": "\ud83d\udcf1",
+    "base_url": "https://graph.facebook.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 18900,
+    "rating": 4.4,
+    "rating_count": 945,
+    "tags": [
+      "marketing"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594338",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "google-analytics",
+    "name": "Google Analytics",
+    "version": "1.0.0",
+    "category": "Marketing",
+    "description": "Web analytics service",
+    "icon": "\ud83d\udcca",
+    "base_url": "https://analyticsreporting.googleapis.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 32400,
+    "rating": 4.7,
+    "rating_count": 1620,
+    "tags": [
+      "marketing"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594344",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "mixpanel",
+    "name": "Mixpanel",
+    "version": "1.0.0",
+    "category": "Marketing",
+    "description": "Product analytics platform",
+    "icon": "\ud83d\udcc8",
+    "base_url": "https://api.mixpanel.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 11200,
+    "rating": 4.6,
+    "rating_count": 560,
+    "tags": [
+      "marketing"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594347",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "segment",
+    "name": "Segment",
+    "version": "1.0.0",
+    "category": "Marketing",
+    "description": "Customer data platform",
+    "icon": "\ud83d\udd00",
+    "base_url": "https://api.segment.io",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 9800,
+    "rating": 4.7,
+    "rating_count": 490,
+    "tags": [
+      "marketing"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594349",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "bamboohr",
+    "name": "BambooHR",
+    "version": "1.0.0",
+    "category": "HR",
+    "description": "Human resources management system",
+    "icon": "\ud83c\udf8b",
+    "base_url": "https://api.bamboohr.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 7300,
+    "rating": 4.6,
+    "rating_count": 365,
+    "tags": [
+      "hr"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594353",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "workday",
+    "name": "Workday",
+    "version": "1.0.0",
+    "category": "HR",
+    "description": "Enterprise cloud applications for finance and HR",
+    "icon": "\ud83d\udcc5",
+    "base_url": "https://api.workday.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 9100,
+    "rating": 4.5,
+    "rating_count": 455,
+    "tags": [
+      "hr"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594355",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "gusto",
+    "name": "Gusto",
+    "version": "1.0.0",
+    "category": "HR",
+    "description": "Payroll, benefits, and HR management",
+    "icon": "\ud83d\udcb5",
+    "base_url": "https://api.gusto.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 8400,
+    "rating": 4.7,
+    "rating_count": 420,
+    "tags": [
+      "hr"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594358",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "namely",
+    "name": "Namely",
+    "version": "1.0.0",
+    "category": "HR",
+    "description": "HR, payroll, and benefits platform",
+    "icon": "\ud83d\udc54",
+    "base_url": "https://api.namely.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 5200,
+    "rating": 4.4,
+    "rating_count": 260,
+    "tags": [
+      "hr"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594362",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "adp",
+    "name": "ADP",
+    "version": "1.0.0",
+    "category": "HR",
+    "description": "Human capital management solutions",
+    "icon": "\ud83c\udfe2",
+    "base_url": "https://api.adp.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 11800,
+    "rating": 4.3,
+    "rating_count": 590,
+    "tags": [
+      "hr"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594365",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "netsuite",
+    "name": "NetSuite",
+    "version": "1.0.0",
+    "category": "ERP",
+    "description": "Cloud-based ERP system",
+    "icon": "\ud83c\udfe2",
+    "base_url": "https://api.netsuite.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 8900,
+    "rating": 4.6,
+    "rating_count": 445,
+    "tags": [
+      "erp"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594369",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "sap",
+    "name": "SAP",
+    "version": "1.0.0",
+    "category": "ERP",
+    "description": "Enterprise resource planning software",
+    "icon": "\ud83c\udfed",
+    "base_url": "https://api.sap.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 12300,
+    "rating": 4.4,
+    "rating_count": 615,
+    "tags": [
+      "erp"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594373",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "oracle",
+    "name": "Oracle",
+    "version": "1.0.0",
+    "category": "Database",
+    "description": "Database and cloud solutions",
+    "icon": "\ud83d\uddc4\ufe0f",
+    "base_url": "https://api.oracle.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 9900,
+    "rating": 4.3,
+    "rating_count": 495,
+    "tags": [
+      "database"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594375",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "mongodb-atlas",
+    "name": "MongoDB Atlas",
+    "version": "1.0.0",
+    "category": "Database",
+    "description": "Cloud database service",
+    "icon": "\ud83c\udf43",
+    "base_url": "https://cloud.mongodb.com/api/atlas",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 14200,
+    "rating": 4.7,
+    "rating_count": 710,
+    "tags": [
+      "database"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594378",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "shipbob",
+    "name": "ShipBob",
+    "version": "1.0.0",
+    "category": "Logistics",
+    "description": "Fulfillment and logistics platform",
+    "icon": "\ud83d\udce6",
+    "base_url": "https://api.shipbob.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 6800,
+    "rating": 4.5,
+    "rating_count": 340,
+    "tags": [
+      "logistics"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594380",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "shipstation",
+    "name": "ShipStation",
+    "version": "1.0.0",
+    "category": "Logistics",
+    "description": "Shipping software for e-commerce",
+    "icon": "\ud83d\udea2",
+    "base_url": "https://ssapi.shipstation.com",
+    "status": "published",
+    "health_status": "healthy",
+    "install_count": 9300,
+    "rating": 4.6,
+    "rating_count": 465,
+    "tags": [
+      "logistics"
+    ],
+    "created_by_user_id": "brikk",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-11-18T00:00:00Z",
+    "last_health_check": "2025-11-19T17:14:44.594384",
+    "connector_definition": {
+      "endpoints": [
+        {
+          "id": "example_endpoint",
+          "name": "Example Endpoint",
+          "method": "GET",
+          "path": "/api/v1/example"
+        }
+      ]
+    },
+    "metadata": {}
+  }
+]
